@@ -1,22 +1,16 @@
 /* sale section style */
-
-h2.sale-text {
+.sale-text {
     font-size: 40px;
     font-weight: 600;
     line-height: 44px;
     /* 110% */
     letter-spacing: -0.8px;
-    margin-left: 35px;
-    margin-right: 0;
     margin-bottom: 120px;
-    margin-top: 0;
 }
 
 .sale-section {
     display: flex;
-    margin-top: 80px;
-    padding-left: 98px;
-    padding-bottom: 160px;
+    margin: 80px 132px;
 }
 
 .sale-description,
@@ -36,13 +30,6 @@ h2.sale-text {
     gap: 155px;
 }
 
-.sale-description {
-    gap: 249px;
-}
-
-.sale-image img {
-    display: block;
-}
 
 .sale-image1 {
     padding-top: 80px;
